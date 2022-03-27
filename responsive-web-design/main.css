@@ -1,0 +1,43 @@
+/* @media (max-width: 500px) {
+
+    figure {
+        margin: auto;    
+    }
+
+
+    .image {
+        max-width: 100%;
+        height: auto;
+        margin: auto;
+    }
+} */
+
+@media (min-width: 500px) {
+
+    /* #title {
+        text-align: center;
+    }
+
+    figure {
+        display: flex;
+        flex-direction: column;
+    }
+
+    figcaption {
+        text-align: center;
+    }
+
+    .image {
+        max-width: 500px;
+        height: auto;
+        margin: auto;
+    }
+
+    article {
+        padding: 5rem;
+    } */
+}
+
+body {
+    font-size: vw;
+}
