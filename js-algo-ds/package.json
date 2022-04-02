@@ -1,0 +1,16 @@
+{
+  "name": "js-algo-ds",
+  "version": "1.0.0",
+  "description": "Solutions and tests for js-algo-ds.",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["Jest", "Javascript"],
+  "author": "Ronald Fung",
+  "license": "ISC"
+}
