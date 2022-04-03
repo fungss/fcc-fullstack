@@ -4,8 +4,4 @@ function palindrome(str) {
 }
 
 
-var testStr = "A man, a plan, a canal. Panama";
-console.log(testStr);
-console.log(palindrome(testStr));
-
-
+module.exports = palindrome
